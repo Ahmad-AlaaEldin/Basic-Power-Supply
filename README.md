@@ -28,6 +28,7 @@ This repository contains the design, simulation, and testing details of a basic 
 
 ![photo_2026-03-12_04-28-28](https://github.com/user-attachments/assets/0fc7458a-b337-40f7-bb29-3c77b2f25845)
 
-![photo_2026-03-12_04-28-03](https://github.com/user-attachments/assets/9abfb266-9189-4498-8945-388f38![photo_2026-03-12_04-28-24](https://github.com/user-attachments/assets/207a2c46-5a64-4b1a-9c13-0ca03f43b1b6)
-bb651c)
+![photo_2026-03-12_04-28-31](https://github.com/user-attachments/assets/118a4e66-459a-4e84-b57f-e4f0081a4e82)
+
+![photo_2026-03-12_04-28-28](https://github.com/user-attachments/assets/c10ecdfa-9cff-4aba-bec6-399a685bb2ef)
 
